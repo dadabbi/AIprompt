@@ -2,7 +2,6 @@
   "name": "prompt-vault",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dadabbi.github.io/AIprompt",
   "type": "module",
   "scripts": {
   "dev": "vite",
